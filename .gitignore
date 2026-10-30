@@ -64,3 +64,4 @@ logs/
 .agents/
 .gemini/
 
+.neon

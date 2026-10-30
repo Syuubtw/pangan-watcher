@@ -1,0 +1,3080 @@
+{
+  "1105": {
+    "nama": "Kab. Aceh Barat",
+    "kode_provinsi": "11",
+    "latitude": 4.442252,
+    "longitude": 96.192983
+  },
+  "1112": {
+    "nama": "Kab. Aceh Barat Daya",
+    "kode_provinsi": "11",
+    "latitude": 3.83359,
+    "longitude": 96.851615
+  },
+  "1106": {
+    "nama": "Kab. Aceh Besar",
+    "kode_provinsi": "11",
+    "latitude": 5.354249,
+    "longitude": 95.496151
+  },
+  "1114": {
+    "nama": "Kab. Aceh Jaya",
+    "kode_provinsi": "11",
+    "latitude": 4.811484,
+    "longitude": 95.700191
+  },
+  "1101": {
+    "nama": "Kab. Aceh Selatan",
+    "kode_provinsi": "11",
+    "latitude": 3.067979,
+    "longitude": 97.468771
+  },
+  "1110": {
+    "nama": "Kab. Aceh Singkil",
+    "kode_provinsi": "11",
+    "latitude": 2.375879,
+    "longitude": 97.924429
+  },
+  "1116": {
+    "nama": "Kab. Aceh Tamiang",
+    "kode_provinsi": "11",
+    "latitude": 4.212262,
+    "longitude": 97.914711
+  },
+  "1104": {
+    "nama": "Kab. Aceh Tengah",
+    "kode_provinsi": "11",
+    "latitude": 4.564267,
+    "longitude": 96.961893
+  },
+  "1102": {
+    "nama": "Kab. Aceh Tenggara",
+    "kode_provinsi": "11",
+    "latitude": 3.338797,
+    "longitude": 97.745642
+  },
+  "1103": {
+    "nama": "Kab. Aceh Timur",
+    "kode_provinsi": "11",
+    "latitude": 4.701663,
+    "longitude": 97.645039
+  },
+  "1108": {
+    "nama": "Kab. Aceh Utara",
+    "kode_provinsi": "11",
+    "latitude": 4.991194,
+    "longitude": 97.158737
+  },
+  "1117": {
+    "nama": "Kab. Bener Meriah",
+    "kode_provinsi": "11",
+    "latitude": 4.77388,
+    "longitude": 96.978004
+  },
+  "1111": {
+    "nama": "Kab. Bireuen",
+    "kode_provinsi": "11",
+    "latitude": 5.08274,
+    "longitude": 96.592121
+  },
+  "1113": {
+    "nama": "Kab. Gayo Lues",
+    "kode_provinsi": "11",
+    "latitude": 3.977599,
+    "longitude": 97.332068
+  },
+  "1115": {
+    "nama": "Kab. Nagan Raya",
+    "kode_provinsi": "11",
+    "latitude": 4.181243,
+    "longitude": 96.525773
+  },
+  "1107": {
+    "nama": "Kab. Pidie",
+    "kode_provinsi": "11",
+    "latitude": 5.1143,
+    "longitude": 95.941283
+  },
+  "1118": {
+    "nama": "Kab. Pidie Jaya",
+    "kode_provinsi": "11",
+    "latitude": 5.104771,
+    "longitude": 96.211668
+  },
+  "1109": {
+    "nama": "Kab. Simeulue",
+    "kode_provinsi": "11",
+    "latitude": 2.629031,
+    "longitude": 96.022078
+  },
+  "1171": {
+    "nama": "Kota Banda Aceh",
+    "kode_provinsi": "11",
+    "latitude": 5.554927,
+    "longitude": 95.356614
+  },
+  "1174": {
+    "nama": "Kota Langsa",
+    "kode_provinsi": "11",
+    "latitude": 4.468683,
+    "longitude": 97.89865
+  },
+  "1173": {
+    "nama": "Kota Lhokseumawe",
+    "kode_provinsi": "11",
+    "latitude": 5.202364,
+    "longitude": 97.042392
+  },
+  "1172": {
+    "nama": "Kota Sabang",
+    "kode_provinsi": "11",
+    "latitude": 5.831884,
+    "longitude": 95.363531
+  },
+  "1175": {
+    "nama": "Kota Subulussalam",
+    "kode_provinsi": "11",
+    "latitude": 2.581939,
+    "longitude": 97.907427
+  },
+  "5103": {
+    "nama": "Kab. Badung",
+    "kode_provinsi": "51",
+    "latitude": -8.644872,
+    "longitude": 115.135905
+  },
+  "5106": {
+    "nama": "Kab. Bangli",
+    "kode_provinsi": "51",
+    "latitude": -8.333336,
+    "longitude": 115.368281
+  },
+  "5108": {
+    "nama": "Kab. Buleleng",
+    "kode_provinsi": "51",
+    "latitude": -7.842826,
+    "longitude": 115.197029
+  },
+  "5104": {
+    "nama": "Kab. Gianyar",
+    "kode_provinsi": "51",
+    "latitude": -8.704512,
+    "longitude": 115.352322
+  },
+  "5101": {
+    "nama": "Kab. Jembrana",
+    "kode_provinsi": "51",
+    "latitude": -8.395578,
+    "longitude": 114.705461
+  },
+  "5107": {
+    "nama": "Kab. Karangasem",
+    "kode_provinsi": "51",
+    "latitude": -8.335562,
+    "longitude": 115.617073
+  },
+  "5105": {
+    "nama": "Kab. Klungkung",
+    "kode_provinsi": "51",
+    "latitude": -8.744603,
+    "longitude": 115.557544
+  },
+  "5102": {
+    "nama": "Kab. Tabanan",
+    "kode_provinsi": "51",
+    "latitude": -8.556652,
+    "longitude": 115.001312
+  },
+  "5171": {
+    "nama": "Kota Denpasar",
+    "kode_provinsi": "51",
+    "latitude": -8.614589,
+    "longitude": 115.226699
+  },
+  "3602": {
+    "nama": "Kab. Lebak",
+    "kode_provinsi": "36",
+    "latitude": -6.64326,
+    "longitude": 106.187272
+  },
+  "3601": {
+    "nama": "Kab. Pandeglang",
+    "kode_provinsi": "36",
+    "latitude": -6.547377,
+    "longitude": 105.799488
+  },
+  "3604": {
+    "nama": "Kab. Serang",
+    "kode_provinsi": "36",
+    "latitude": -6.116966,
+    "longitude": 106.151808
+  },
+  "3603": {
+    "nama": "Kab. Tangerang",
+    "kode_provinsi": "36",
+    "latitude": -6.176192,
+    "longitude": 106.638216
+  },
+  "3672": {
+    "nama": "Kota Cilegon",
+    "kode_provinsi": "36",
+    "latitude": -6.016339,
+    "longitude": 106.036341
+  },
+  "3673": {
+    "nama": "Kota Serang",
+    "kode_provinsi": "36",
+    "latitude": -6.084561,
+    "longitude": 106.123733
+  },
+  "3671": {
+    "nama": "Kota Tangerang",
+    "kode_provinsi": "36",
+    "latitude": -6.241261,
+    "longitude": 106.744112
+  },
+  "3674": {
+    "nama": "Kota Tangerang Selatan",
+    "kode_provinsi": "36",
+    "latitude": -6.355867,
+    "longitude": 106.713446
+  },
+  "1701": {
+    "nama": "Kab. Bengkulu Selatan",
+    "kode_provinsi": "17",
+    "latitude": -4.358988,
+    "longitude": 103.002039
+  },
+  "1709": {
+    "nama": "Kab. Bengkulu Tengah",
+    "kode_provinsi": "17",
+    "latitude": -3.671227,
+    "longitude": 102.387562
+  },
+  "1703": {
+    "nama": "Kab. Bengkulu Utara",
+    "kode_provinsi": "17",
+    "latitude": -3.189133,
+    "longitude": 101.857642
+  },
+  "1704": {
+    "nama": "Kab. Kaur",
+    "kode_provinsi": "17",
+    "latitude": -4.590528,
+    "longitude": 103.365261
+  },
+  "1708": {
+    "nama": "Kab. Kepahiang",
+    "kode_provinsi": "17",
+    "latitude": -3.647936,
+    "longitude": 102.666139
+  },
+  "1707": {
+    "nama": "Kab. Lebong",
+    "kode_provinsi": "17",
+    "latitude": -3.053477,
+    "longitude": 102.208994
+  },
+  "1706": {
+    "nama": "Kab. Muko Muko",
+    "kode_provinsi": "17",
+    "latitude": -2.402442,
+    "longitude": 101.153554
+  },
+  "1702": {
+    "nama": "Kab. Rejang Lebong",
+    "kode_provinsi": "17",
+    "latitude": -3.438904,
+    "longitude": 102.698485
+  },
+  "1705": {
+    "nama": "Kab. Seluma",
+    "kode_provinsi": "17",
+    "latitude": -4.076826,
+    "longitude": 102.671787
+  },
+  "1771": {
+    "nama": "Kota Bengkulu",
+    "kode_provinsi": "17",
+    "latitude": -3.821629,
+    "longitude": 102.303834
+  },
+  "3402": {
+    "nama": "Kab. Bantul",
+    "kode_provinsi": "34",
+    "latitude": -7.887745,
+    "longitude": 110.327414
+  },
+  "3403": {
+    "nama": "Kab. Gunungkidul",
+    "kode_provinsi": "34",
+    "latitude": -7.993038,
+    "longitude": 110.557931
+  },
+  "3401": {
+    "nama": "Kab. Kulon Progo",
+    "kode_provinsi": "34",
+    "latitude": -7.812308,
+    "longitude": 110.147983
+  },
+  "3404": {
+    "nama": "Kab. Sleman",
+    "kode_provinsi": "34",
+    "latitude": -7.690247,
+    "longitude": 110.341986
+  },
+  "3471": {
+    "nama": "Kota Yogyakarta",
+    "kode_provinsi": "34",
+    "latitude": -7.826139,
+    "longitude": 110.402126
+  },
+  "3101": {
+    "nama": "Kab. Adm. Kep. Seribu",
+    "kode_provinsi": "31",
+    "latitude": -5.635047,
+    "longitude": 106.580354
+  },
+  "3173": {
+    "nama": "Kota Adm. Jakarta Barat",
+    "kode_provinsi": "31",
+    "latitude": -6.136862,
+    "longitude": 106.815071
+  },
+  "3171": {
+    "nama": "Kota Adm. Jakarta Pusat",
+    "kode_provinsi": "31",
+    "latitude": -6.18234,
+    "longitude": 106.842872
+  },
+  "3174": {
+    "nama": "Kota Adm. Jakarta Selatan",
+    "kode_provinsi": "31",
+    "latitude": -6.283818,
+    "longitude": 106.804863
+  },
+  "3175": {
+    "nama": "Kota Adm. Jakarta Timur",
+    "kode_provinsi": "31",
+    "latitude": -6.262891,
+    "longitude": 106.882229
+  },
+  "3172": {
+    "nama": "Kota Adm. Jakarta Utara",
+    "kode_provinsi": "31",
+    "latitude": -6.136197,
+    "longitude": 106.90069
+  },
+  "7502": {
+    "nama": "Kab. Boalemo",
+    "kode_provinsi": "75",
+    "latitude": 0.68762,
+    "longitude": 122.335683
+  },
+  "7503": {
+    "nama": "Kab. Bone Bolango",
+    "kode_provinsi": "75",
+    "latitude": 0.556403,
+    "longitude": 123.309971
+  },
+  "7501": {
+    "nama": "Kab. Gorontalo",
+    "kode_provinsi": "75",
+    "latitude": 0.538443,
+    "longitude": 123.059497
+  },
+  "7505": {
+    "nama": "Kab. Gorontalo Utara",
+    "kode_provinsi": "75",
+    "latitude": 0.866198,
+    "longitude": 123.049529
+  },
+  "7504": {
+    "nama": "Kab. Pohuwato",
+    "kode_provinsi": "75",
+    "latitude": NaN,
+    "longitude": NaN
+  },
+  "7571": {
+    "nama": "Kota Gorontalo",
+    "kode_provinsi": "75",
+    "latitude": 0.527863,
+    "longitude": 123.054403
+  },
+  "1504": {
+    "nama": "Kab. Batanghari",
+    "kode_provinsi": "15",
+    "latitude": -1.859239,
+    "longitude": 103.0075
+  },
+  "1508": {
+    "nama": "Kab. Bungo",
+    "kode_provinsi": "15",
+    "latitude": -1.515188,
+    "longitude": 101.998936
+  },
+  "1501": {
+    "nama": "Kab. Kerinci",
+    "kode_provinsi": "15",
+    "latitude": -2.063338,
+    "longitude": 101.600494
+  },
+  "1502": {
+    "nama": "Kab. Merangin",
+    "kode_provinsi": "15",
+    "latitude": -2.208447,
+    "longitude": 102.117106
+  },
+  "1505": {
+    "nama": "Kab. Muaro Jambi",
+    "kode_provinsi": "15",
+    "latitude": -1.707654,
+    "longitude": 103.78608
+  },
+  "1503": {
+    "nama": "Kab. Sarolangun",
+    "kode_provinsi": "15",
+    "latitude": -2.331246,
+    "longitude": 102.627533
+  },
+  "1506": {
+    "nama": "Kab. Tanjung Jabung Barat",
+    "kode_provinsi": "15",
+    "latitude": -0.983104,
+    "longitude": 103.269247
+  },
+  "1507": {
+    "nama": "Kab. Tanjung Jabung Timur",
+    "kode_provinsi": "15",
+    "latitude": -1.177289,
+    "longitude": 104.228482
+  },
+  "1509": {
+    "nama": "Kab. Tebo",
+    "kode_provinsi": "15",
+    "latitude": -1.388453,
+    "longitude": 102.44059
+  },
+  "1571": {
+    "nama": "Kota Jambi",
+    "kode_provinsi": "15",
+    "latitude": -1.635417,
+    "longitude": 103.634369
+  },
+  "1572": {
+    "nama": "Kota Sungai Penuh",
+    "kode_provinsi": "15",
+    "latitude": -2.049119,
+    "longitude": 101.349135
+  },
+  "3204": {
+    "nama": "Kab. Bandung",
+    "kode_provinsi": "32",
+    "latitude": -6.921553,
+    "longitude": 107.611021
+  },
+  "3217": {
+    "nama": "Kab. Bandung Barat",
+    "kode_provinsi": "32",
+    "latitude": -6.897754,
+    "longitude": 107.412429
+  },
+  "3216": {
+    "nama": "Kab. Bekasi",
+    "kode_provinsi": "32",
+    "latitude": -6.234986,
+    "longitude": 106.994544
+  },
+  "3201": {
+    "nama": "Kab. Bogor",
+    "kode_provinsi": "32",
+    "latitude": -6.596299,
+    "longitude": 106.797242
+  },
+  "3207": {
+    "nama": "Kab. Ciamis",
+    "kode_provinsi": "32",
+    "latitude": -7.313159,
+    "longitude": 108.404894
+  },
+  "3203": {
+    "nama": "Kab. Cianjur",
+    "kode_provinsi": "32",
+    "latitude": -7.054244,
+    "longitude": 107.069143
+  },
+  "3209": {
+    "nama": "Kab. Cirebon",
+    "kode_provinsi": "32",
+    "latitude": -6.713704,
+    "longitude": 108.560848
+  },
+  "3205": {
+    "nama": "Kab. Garut",
+    "kode_provinsi": "32",
+    "latitude": -7.216254,
+    "longitude": 107.901491
+  },
+  "3212": {
+    "nama": "Kab. Indramayu",
+    "kode_provinsi": "32",
+    "latitude": -6.441854,
+    "longitude": 108.176547
+  },
+  "3215": {
+    "nama": "Kab. Karawang",
+    "kode_provinsi": "32",
+    "latitude": -6.302191,
+    "longitude": 107.304612
+  },
+  "3208": {
+    "nama": "Kab. Kuningan",
+    "kode_provinsi": "32",
+    "latitude": -6.986984,
+    "longitude": 108.553816
+  },
+  "3210": {
+    "nama": "Kab. Majalengka",
+    "kode_provinsi": "32",
+    "latitude": -6.807363,
+    "longitude": 108.278786
+  },
+  "3218": {
+    "nama": "Kab. Pangandaran",
+    "kode_provinsi": "32",
+    "latitude": -7.640797,
+    "longitude": 108.556729
+  },
+  "3214": {
+    "nama": "Kab. Purwakarta",
+    "kode_provinsi": "32",
+    "latitude": -6.55278,
+    "longitude": 107.446532
+  },
+  "3213": {
+    "nama": "Kab. Subang",
+    "kode_provinsi": "32",
+    "latitude": -6.498389,
+    "longitude": 107.739546
+  },
+  "3202": {
+    "nama": "Kab. Sukabumi",
+    "kode_provinsi": "32",
+    "latitude": -6.919929,
+    "longitude": 106.926509
+  },
+  "3211": {
+    "nama": "Kab. Sumedang",
+    "kode_provinsi": "32",
+    "latitude": -6.809871,
+    "longitude": 107.981773
+  },
+  "3206": {
+    "nama": "Kab. Tasikmalaya",
+    "kode_provinsi": "32",
+    "latitude": -7.326248,
+    "longitude": 108.220115
+  },
+  "3273": {
+    "nama": "Kota Bandung",
+    "kode_provinsi": "32",
+    "latitude": -6.9009,
+    "longitude": 107.684106
+  },
+  "3279": {
+    "nama": "Kota Banjar",
+    "kode_provinsi": "32",
+    "latitude": -7.391726,
+    "longitude": 108.615012
+  },
+  "3275": {
+    "nama": "Kota Bekasi",
+    "kode_provinsi": "32",
+    "latitude": -6.328311,
+    "longitude": 106.928011
+  },
+  "3271": {
+    "nama": "Kota Bogor",
+    "kode_provinsi": "32",
+    "latitude": -6.54838,
+    "longitude": 106.776161
+  },
+  "3277": {
+    "nama": "Kota Cimahi",
+    "kode_provinsi": "32",
+    "latitude": -6.851267,
+    "longitude": 107.540404
+  },
+  "3274": {
+    "nama": "Kota Cirebon",
+    "kode_provinsi": "32",
+    "latitude": -6.73994,
+    "longitude": 108.528146
+  },
+  "3276": {
+    "nama": "Kota Depok",
+    "kode_provinsi": "32",
+    "latitude": -6.429777,
+    "longitude": 106.742689
+  },
+  "3272": {
+    "nama": "Kota Sukabumi",
+    "kode_provinsi": "32",
+    "latitude": -6.945768,
+    "longitude": 106.939597
+  },
+  "3278": {
+    "nama": "Kota Tasikmalaya",
+    "kode_provinsi": "32",
+    "latitude": -7.338085,
+    "longitude": 108.288666
+  },
+  "3304": {
+    "nama": "Kab. Banjarnegara",
+    "kode_provinsi": "33",
+    "latitude": -7.355873,
+    "longitude": 109.660073
+  },
+  "3302": {
+    "nama": "Kab. Banyumas",
+    "kode_provinsi": "33",
+    "latitude": -7.455072,
+    "longitude": 109.116746
+  },
+  "3325": {
+    "nama": "Kab. Batang",
+    "kode_provinsi": "33",
+    "latitude": -7.032355,
+    "longitude": 109.867953
+  },
+  "3316": {
+    "nama": "Kab. Blora",
+    "kode_provinsi": "33",
+    "latitude": -6.969153,
+    "longitude": 111.413052
+  },
+  "3309": {
+    "nama": "Kab. Boyolali",
+    "kode_provinsi": "33",
+    "latitude": -7.387212,
+    "longitude": 110.703869
+  },
+  "3329": {
+    "nama": "Kab. Brebes",
+    "kode_provinsi": "33",
+    "latitude": -7.052071,
+    "longitude": 108.888136
+  },
+  "3301": {
+    "nama": "Kab. Cilacap",
+    "kode_provinsi": "33",
+    "latitude": -7.461671,
+    "longitude": 108.804615
+  },
+  "3321": {
+    "nama": "Kab. Demak",
+    "kode_provinsi": "33",
+    "latitude": -6.922907,
+    "longitude": 110.635097
+  },
+  "3315": {
+    "nama": "Kab. Grobogan",
+    "kode_provinsi": "33",
+    "latitude": -7.098095,
+    "longitude": 110.896677
+  },
+  "3320": {
+    "nama": "Kab. Jepara",
+    "kode_provinsi": "33",
+    "latitude": -6.589915,
+    "longitude": 110.667299
+  },
+  "3313": {
+    "nama": "Kab. Karanganyar",
+    "kode_provinsi": "33",
+    "latitude": -7.619696,
+    "longitude": 111.0698
+  },
+  "3305": {
+    "nama": "Kab. Kebumen",
+    "kode_provinsi": "33",
+    "latitude": -7.668689,
+    "longitude": 109.651946
+  },
+  "3324": {
+    "nama": "Kab. Kendal",
+    "kode_provinsi": "33",
+    "latitude": -7.019097,
+    "longitude": 110.137476
+  },
+  "3310": {
+    "nama": "Kab. Klaten",
+    "kode_provinsi": "33",
+    "latitude": -7.673222,
+    "longitude": 110.628519
+  },
+  "3319": {
+    "nama": "Kab. Kudus",
+    "kode_provinsi": "33",
+    "latitude": -6.807823,
+    "longitude": 110.841687
+  },
+  "3308": {
+    "nama": "Kab. Magelang",
+    "kode_provinsi": "33",
+    "latitude": -7.477075,
+    "longitude": 110.218216
+  },
+  "3318": {
+    "nama": "Kab. Pati",
+    "kode_provinsi": "33",
+    "latitude": -6.707092,
+    "longitude": 111.087008
+  },
+  "3326": {
+    "nama": "Kab. Pekalongan",
+    "kode_provinsi": "33",
+    "latitude": -6.890506,
+    "longitude": 109.676149
+  },
+  "3327": {
+    "nama": "Kab. Pemalang",
+    "kode_provinsi": "33",
+    "latitude": -7.01108,
+    "longitude": 109.391404
+  },
+  "3303": {
+    "nama": "Kab. Purbalingga",
+    "kode_provinsi": "33",
+    "latitude": -7.32733,
+    "longitude": 109.399899
+  },
+  "3306": {
+    "nama": "Kab. Purworejo",
+    "kode_provinsi": "33",
+    "latitude": -7.713076,
+    "longitude": 110.009061
+  },
+  "3317": {
+    "nama": "Kab. Rembang",
+    "kode_provinsi": "33",
+    "latitude": -6.769864,
+    "longitude": 111.455671
+  },
+  "3322": {
+    "nama": "Kab. Semarang",
+    "kode_provinsi": "33",
+    "latitude": -6.990399,
+    "longitude": 110.42291
+  },
+  "3314": {
+    "nama": "Kab. Sragen",
+    "kode_provinsi": "33",
+    "latitude": -7.392456,
+    "longitude": 110.953023
+  },
+  "3311": {
+    "nama": "Kab. Sukoharjo",
+    "kode_provinsi": "33",
+    "latitude": -7.681521,
+    "longitude": 110.867742
+  },
+  "3328": {
+    "nama": "Kab. Tegal",
+    "kode_provinsi": "33",
+    "latitude": -6.869811,
+    "longitude": 109.115065
+  },
+  "3323": {
+    "nama": "Kab. Temanggung",
+    "kode_provinsi": "33",
+    "latitude": -7.239758,
+    "longitude": 110.121665
+  },
+  "3312": {
+    "nama": "Kab. Wonogiri",
+    "kode_provinsi": "33",
+    "latitude": -7.962051,
+    "longitude": 110.957573
+  },
+  "3307": {
+    "nama": "Kab. Wonosobo",
+    "kode_provinsi": "33",
+    "latitude": -7.3998,
+    "longitude": 109.920964
+  },
+  "3371": {
+    "nama": "Kota Magelang",
+    "kode_provinsi": "33",
+    "latitude": -7.476396,
+    "longitude": 110.226466
+  },
+  "3375": {
+    "nama": "Kota Pekalongan",
+    "kode_provinsi": "33",
+    "latitude": -6.923894,
+    "longitude": 109.686501
+  },
+  "3373": {
+    "nama": "Kota Salatiga",
+    "kode_provinsi": "33",
+    "latitude": -7.331071,
+    "longitude": 110.501716
+  },
+  "3374": {
+    "nama": "Kota Semarang",
+    "kode_provinsi": "33",
+    "latitude": -6.967057,
+    "longitude": 110.303759
+  },
+  "3372": {
+    "nama": "Kota Surakarta",
+    "kode_provinsi": "33",
+    "latitude": -7.547233,
+    "longitude": 110.817553
+  },
+  "3376": {
+    "nama": "Kota Tegal",
+    "kode_provinsi": "33",
+    "latitude": -6.865957,
+    "longitude": 109.112033
+  },
+  "3526": {
+    "nama": "Kab. Bangkalan",
+    "kode_provinsi": "35",
+    "latitude": -7.046372,
+    "longitude": 112.89625
+  },
+  "3510": {
+    "nama": "Kab. Banyuwangi",
+    "kode_provinsi": "35",
+    "latitude": -8.332571,
+    "longitude": 114.141579
+  },
+  "3505": {
+    "nama": "Kab. Blitar",
+    "kode_provinsi": "35",
+    "latitude": -8.131198,
+    "longitude": 112.311557
+  },
+  "3522": {
+    "nama": "Kab. Bojonegoro",
+    "kode_provinsi": "35",
+    "latitude": -7.227871,
+    "longitude": 111.81462
+  },
+  "3511": {
+    "nama": "Kab. Bondowoso",
+    "kode_provinsi": "35",
+    "latitude": -7.945128,
+    "longitude": 113.882059
+  },
+  "3525": {
+    "nama": "Kab. Gresik",
+    "kode_provinsi": "35",
+    "latitude": -5.793347,
+    "longitude": 112.659822
+  },
+  "3509": {
+    "nama": "Kab. Jember",
+    "kode_provinsi": "35",
+    "latitude": -8.168856,
+    "longitude": 113.702177
+  },
+  "3517": {
+    "nama": "Kab. Jombang",
+    "kode_provinsi": "35",
+    "latitude": -7.561464,
+    "longitude": 112.241304
+  },
+  "3506": {
+    "nama": "Kab. Kediri",
+    "kode_provinsi": "35",
+    "latitude": -7.811106,
+    "longitude": 112.004605
+  },
+  "3524": {
+    "nama": "Kab. Lamongan",
+    "kode_provinsi": "35",
+    "latitude": -7.122932,
+    "longitude": 112.328194
+  },
+  "3508": {
+    "nama": "Kab. Lumajang",
+    "kode_provinsi": "35",
+    "latitude": -8.135205,
+    "longitude": 113.224416
+  },
+  "3519": {
+    "nama": "Kab. Madiun",
+    "kode_provinsi": "35",
+    "latitude": -7.629084,
+    "longitude": 111.516882
+  },
+  "3520": {
+    "nama": "Kab. Magetan",
+    "kode_provinsi": "35",
+    "latitude": -7.654249,
+    "longitude": 111.336057
+  },
+  "3507": {
+    "nama": "Kab. Malang",
+    "kode_provinsi": "35",
+    "latitude": -7.977131,
+    "longitude": 112.634027
+  },
+  "3516": {
+    "nama": "Kab. Mojokerto",
+    "kode_provinsi": "35",
+    "latitude": -7.541338,
+    "longitude": 112.509497
+  },
+  "3518": {
+    "nama": "Kab. Nganjuk",
+    "kode_provinsi": "35",
+    "latitude": -7.615016,
+    "longitude": 111.946507
+  },
+  "3521": {
+    "nama": "Kab. Ngawi",
+    "kode_provinsi": "35",
+    "latitude": -7.402722,
+    "longitude": 111.444345
+  },
+  "3501": {
+    "nama": "Kab. Pacitan",
+    "kode_provinsi": "35",
+    "latitude": -8.101718,
+    "longitude": 111.144671
+  },
+  "3528": {
+    "nama": "Kab. Pamekasan",
+    "kode_provinsi": "35",
+    "latitude": -7.160544,
+    "longitude": 113.482627
+  },
+  "3514": {
+    "nama": "Kab. Pasuruan",
+    "kode_provinsi": "35",
+    "latitude": -7.750811,
+    "longitude": 112.818483
+  },
+  "3502": {
+    "nama": "Kab. Ponorogo",
+    "kode_provinsi": "35",
+    "latitude": -7.971227,
+    "longitude": 111.498893
+  },
+  "3513": {
+    "nama": "Kab. Probolinggo",
+    "kode_provinsi": "35",
+    "latitude": -7.744146,
+    "longitude": 113.21584
+  },
+  "3527": {
+    "nama": "Kab. Sampang",
+    "kode_provinsi": "35",
+    "latitude": -7.057816,
+    "longitude": 113.254054
+  },
+  "3515": {
+    "nama": "Kab. Sidoarjo",
+    "kode_provinsi": "35",
+    "latitude": -7.455974,
+    "longitude": 112.660888
+  },
+  "3512": {
+    "nama": "Kab. Situbondo",
+    "kode_provinsi": "35",
+    "latitude": -7.706784,
+    "longitude": 114.005414
+  },
+  "3529": {
+    "nama": "Kab. Sumenep",
+    "kode_provinsi": "35",
+    "latitude": -7.006745,
+    "longitude": 113.859867
+  },
+  "3503": {
+    "nama": "Kab. Trenggalek",
+    "kode_provinsi": "35",
+    "latitude": -8.135935,
+    "longitude": 111.640198
+  },
+  "3523": {
+    "nama": "Kab. Tuban",
+    "kode_provinsi": "35",
+    "latitude": -6.896266,
+    "longitude": 112.065071
+  },
+  "3504": {
+    "nama": "Kab. Tulungagung",
+    "kode_provinsi": "35",
+    "latitude": -8.072904,
+    "longitude": 111.899641
+  },
+  "3579": {
+    "nama": "Kota Batu",
+    "kode_provinsi": "35",
+    "latitude": -7.887333,
+    "longitude": 112.561172
+  },
+  "3572": {
+    "nama": "Kota Blitar",
+    "kode_provinsi": "35",
+    "latitude": -8.087993,
+    "longitude": 112.18208
+  },
+  "3571": {
+    "nama": "Kota Kediri",
+    "kode_provinsi": "35",
+    "latitude": -7.822703,
+    "longitude": 112.036567
+  },
+  "3577": {
+    "nama": "Kota Madiun",
+    "kode_provinsi": "35",
+    "latitude": -7.641165,
+    "longitude": 111.525411
+  },
+  "3573": {
+    "nama": "Kota Malang",
+    "kode_provinsi": "35",
+    "latitude": -7.921025,
+    "longitude": 112.628614
+  },
+  "3576": {
+    "nama": "Kota Mojokerto",
+    "kode_provinsi": "35",
+    "latitude": -7.464711,
+    "longitude": 112.436795
+  },
+  "3575": {
+    "nama": "Kota Pasuruan",
+    "kode_provinsi": "35",
+    "latitude": -7.634979,
+    "longitude": 112.925365
+  },
+  "3574": {
+    "nama": "Kota Probolinggo",
+    "kode_provinsi": "35",
+    "latitude": -7.780742,
+    "longitude": 113.212806
+  },
+  "3578": {
+    "nama": "Kota Surabaya",
+    "kode_provinsi": "35",
+    "latitude": -7.280553,
+    "longitude": 112.66901
+  },
+  "6107": {
+    "nama": "Kab. Bengkayang",
+    "kode_provinsi": "61",
+    "latitude": 1.015775,
+    "longitude": 109.708033
+  },
+  "6106": {
+    "nama": "Kab. Kapuas Hulu",
+    "kode_provinsi": "61",
+    "latitude": 0.827426,
+    "longitude": 112.796541
+  },
+  "6111": {
+    "nama": "Kab. Kayong Utara",
+    "kode_provinsi": "61",
+    "latitude": -1.043507,
+    "longitude": 110.058949
+  },
+  "6104": {
+    "nama": "Kab. Ketapang",
+    "kode_provinsi": "61",
+    "latitude": -1.681497,
+    "longitude": 110.464761
+  },
+  "6112": {
+    "nama": "Kab. Kubu Raya",
+    "kode_provinsi": "61",
+    "latitude": -0.369484,
+    "longitude": 109.512356
+  },
+  "6108": {
+    "nama": "Kab. Landak",
+    "kode_provinsi": "61",
+    "latitude": 0.504635,
+    "longitude": 109.707038
+  },
+  "6110": {
+    "nama": "Kab. Melawi",
+    "kode_provinsi": "61",
+    "latitude": -0.723936,
+    "longitude": 111.655953
+  },
+  "6102": {
+    "nama": "Kab. Mempawah",
+    "kode_provinsi": "61",
+    "latitude": 0.344018,
+    "longitude": 109.101976
+  },
+  "6101": {
+    "nama": "Kab. Sambas",
+    "kode_provinsi": "61",
+    "latitude": 1.52191,
+    "longitude": 109.413809
+  },
+  "6103": {
+    "nama": "Kab. Sanggau",
+    "kode_provinsi": "61",
+    "latitude": 0.35023,
+    "longitude": 110.547042
+  },
+  "6109": {
+    "nama": "Kab. Sekadau",
+    "kode_provinsi": "61",
+    "latitude": 0.017192,
+    "longitude": 110.929004
+  },
+  "6105": {
+    "nama": "Kab. Sintang",
+    "kode_provinsi": "61",
+    "latitude": 0.1927,
+    "longitude": 111.559812
+  },
+  "6171": {
+    "nama": "Kota Pontianak",
+    "kode_provinsi": "61",
+    "latitude": -0.082903,
+    "longitude": 109.351822
+  },
+  "6172": {
+    "nama": "Kota Singkawang",
+    "kode_provinsi": "61",
+    "latitude": 0.793275,
+    "longitude": 108.986286
+  },
+  "6311": {
+    "nama": "Kab. Balangan",
+    "kode_provinsi": "63",
+    "latitude": -2.287897,
+    "longitude": 115.620548
+  },
+  "6303": {
+    "nama": "Kab. Banjar",
+    "kode_provinsi": "63",
+    "latitude": -3.31875,
+    "longitude": 114.592583
+  },
+  "6304": {
+    "nama": "Kab. Barito Kuala",
+    "kode_provinsi": "63",
+    "latitude": -3.019296,
+    "longitude": 114.677932
+  },
+  "6306": {
+    "nama": "Kab. Hulu Sungai Selatan",
+    "kode_provinsi": "63",
+    "latitude": -2.712581,
+    "longitude": 115.158777
+  },
+  "6307": {
+    "nama": "Kab. Hulu Sungai Tengah",
+    "kode_provinsi": "63",
+    "latitude": -2.618758,
+    "longitude": 115.4293
+  },
+  "6308": {
+    "nama": "Kab. Hulu Sungai Utara",
+    "kode_provinsi": "63",
+    "latitude": -2.424245,
+    "longitude": 115.159706
+  },
+  "6302": {
+    "nama": "Kab. Kotabaru",
+    "kode_provinsi": "63",
+    "latitude": -2.79511,
+    "longitude": 115.971255
+  },
+  "6309": {
+    "nama": "Kab. Tabalong",
+    "kode_provinsi": "63",
+    "latitude": -1.836321,
+    "longitude": 115.515534
+  },
+  "6310": {
+    "nama": "Kab. Tanah Bumbu",
+    "kode_provinsi": "63",
+    "latitude": -3.447333,
+    "longitude": 115.706393
+  },
+  "6301": {
+    "nama": "Kab. Tanah Laut",
+    "kode_provinsi": "63",
+    "latitude": -3.844038,
+    "longitude": 114.988859
+  },
+  "6305": {
+    "nama": "Kab. Tapin",
+    "kode_provinsi": "63",
+    "latitude": -2.862273,
+    "longitude": 115.010964
+  },
+  "6372": {
+    "nama": "Kota Banjarbaru",
+    "kode_provinsi": "63",
+    "latitude": -3.487358,
+    "longitude": 114.702675
+  },
+  "6371": {
+    "nama": "Kota Banjarmasin",
+    "kode_provinsi": "63",
+    "latitude": -3.330128,
+    "longitude": 114.597571
+  },
+  "6204": {
+    "nama": "Kab. Barito Selatan",
+    "kode_provinsi": "62",
+    "latitude": -1.922879,
+    "longitude": 114.78889
+  },
+  "6213": {
+    "nama": "Kab. Barito Timur",
+    "kode_provinsi": "62",
+    "latitude": -1.981911,
+    "longitude": 115.180388
+  },
+  "6205": {
+    "nama": "Kab. Barito Utara",
+    "kode_provinsi": "62",
+    "latitude": -0.754211,
+    "longitude": 115.045145
+  },
+  "6210": {
+    "nama": "Kab. Gunung Mas",
+    "kode_provinsi": "62",
+    "latitude": -0.967789,
+    "longitude": 113.535714
+  },
+  "6203": {
+    "nama": "Kab. Kapuas",
+    "kode_provinsi": "62",
+    "latitude": -1.922879,
+    "longitude": 114.336362
+  },
+  "6206": {
+    "nama": "Kab. Katingan",
+    "kode_provinsi": "62",
+    "latitude": -1.859558,
+    "longitude": 113.336905
+  },
+  "6201": {
+    "nama": "Kab. Kotawaringin Barat",
+    "kode_provinsi": "62",
+    "latitude": -2.504212,
+    "longitude": 111.64681
+  },
+  "6202": {
+    "nama": "Kab. Kotawaringin Timur",
+    "kode_provinsi": "62",
+    "latitude": -2.251473,
+    "longitude": 112.785465
+  },
+  "6209": {
+    "nama": "Kab. Lamandau",
+    "kode_provinsi": "62",
+    "latitude": -1.778874,
+    "longitude": 111.417317
+  },
+  "6212": {
+    "nama": "Kab. Murung Raya",
+    "kode_provinsi": "62",
+    "latitude": -0.068451,
+    "longitude": 114.173182
+  },
+  "6211": {
+    "nama": "Kab. Pulang Pisau",
+    "kode_provinsi": "62",
+    "latitude": -2.746171,
+    "longitude": 114.262242
+  },
+  "6207": {
+    "nama": "Kab. Seruyan",
+    "kode_provinsi": "62",
+    "latitude": -2.120177,
+    "longitude": 112.165025
+  },
+  "6208": {
+    "nama": "Kab. Sukamara",
+    "kode_provinsi": "62",
+    "latitude": -2.560249,
+    "longitude": 111.183772
+  },
+  "6271": {
+    "nama": "Kota Palangkaraya",
+    "kode_provinsi": "62",
+    "latitude": -1.70189,
+    "longitude": 113.602476
+  },
+  "6403": {
+    "nama": "Kab. Berau",
+    "kode_provinsi": "64",
+    "latitude": 1.776754,
+    "longitude": 117.269176
+  },
+  "6407": {
+    "nama": "Kab. Kutai Barat",
+    "kode_provinsi": "64",
+    "latitude": -0.420915,
+    "longitude": 115.768045
+  },
+  "6402": {
+    "nama": "Kab. Kutai Kartanegara",
+    "kode_provinsi": "64",
+    "latitude": 0.195633,
+    "longitude": 116.200417
+  },
+  "6408": {
+    "nama": "Kab. Kutai Timur",
+    "kode_provinsi": "64",
+    "latitude": 0.945361,
+    "longitude": 117.011088
+  },
+  "6411": {
+    "nama": "Kab. Mahakam Ulu",
+    "kode_provinsi": "64",
+    "latitude": 0.622602,
+    "longitude": 115.313145
+  },
+  "6401": {
+    "nama": "Kab. Paser",
+    "kode_provinsi": "64",
+    "latitude": -1.689667,
+    "longitude": 116.015822
+  },
+  "6409": {
+    "nama": "Kab. Penajam Paser Utara",
+    "kode_provinsi": "64",
+    "latitude": -1.197386,
+    "longitude": 116.567303
+  },
+  "6471": {
+    "nama": "Kota Balikpapan",
+    "kode_provinsi": "64",
+    "latitude": -1.267784,
+    "longitude": 116.853741
+  },
+  "6474": {
+    "nama": "Kota Bontang",
+    "kode_provinsi": "64",
+    "latitude": 0.129923,
+    "longitude": 117.450651
+  },
+  "6472": {
+    "nama": "Kota Samarinda",
+    "kode_provinsi": "64",
+    "latitude": -0.530353,
+    "longitude": 117.136504
+  },
+  "6501": {
+    "nama": "Kab. Bulungan",
+    "kode_provinsi": "65",
+    "latitude": 2.762034,
+    "longitude": 117.074347
+  },
+  "6502": {
+    "nama": "Kab. Malinau",
+    "kode_provinsi": "65",
+    "latitude": 2.618555,
+    "longitude": 115.690497
+  },
+  "6503": {
+    "nama": "Kab. Nunukan",
+    "kode_provinsi": "65",
+    "latitude": 3.907456,
+    "longitude": 117.042351
+  },
+  "6504": {
+    "nama": "Kab. Tana Tidung",
+    "kode_provinsi": "65",
+    "latitude": 3.555328,
+    "longitude": 117.04466
+  },
+  "6571": {
+    "nama": "Kota Tarakan",
+    "kode_provinsi": "65",
+    "latitude": 3.372579,
+    "longitude": 117.571978
+  },
+  "1901": {
+    "nama": "Kab. Bangka",
+    "kode_provinsi": "19",
+    "latitude": -2.308124,
+    "longitude": 106.028152
+  },
+  "1905": {
+    "nama": "Kab. Bangka Barat",
+    "kode_provinsi": "19",
+    "latitude": -1.841238,
+    "longitude": 105.551871
+  },
+  "1903": {
+    "nama": "Kab. Bangka Selatan",
+    "kode_provinsi": "19",
+    "latitude": -2.776898,
+    "longitude": 106.293958
+  },
+  "1904": {
+    "nama": "Kab. Bangka Tengah",
+    "kode_provinsi": "19",
+    "latitude": -2.430516,
+    "longitude": 106.100155
+  },
+  "1902": {
+    "nama": "Kab. Belitung",
+    "kode_provinsi": "19",
+    "latitude": -2.884281,
+    "longitude": 107.66316
+  },
+  "1906": {
+    "nama": "Kab. Belitung Timur",
+    "kode_provinsi": "19",
+    "latitude": -2.916457,
+    "longitude": 108.003722
+  },
+  "1971": {
+    "nama": "Kota Pangkal Pinang",
+    "kode_provinsi": "19",
+    "latitude": -2.137566,
+    "longitude": 106.124226
+  },
+  "2101": {
+    "nama": "Kab. Bintan",
+    "kode_provinsi": "21",
+    "latitude": 1.019658,
+    "longitude": 104.569819
+  },
+  "2102": {
+    "nama": "Kab. Karimun",
+    "kode_provinsi": "21",
+    "latitude": 0.765387,
+    "longitude": 103.428744
+  },
+  "2105": {
+    "nama": "Kab. Kepulauan Anambas",
+    "kode_provinsi": "21",
+    "latitude": 2.938901,
+    "longitude": 105.760258
+  },
+  "2104": {
+    "nama": "Kab. Lingga",
+    "kode_provinsi": "21",
+    "latitude": -0.509497,
+    "longitude": 104.414161
+  },
+  "2103": {
+    "nama": "Kab. Natuna",
+    "kode_provinsi": "21",
+    "latitude": 3.930517,
+    "longitude": 108.19015
+  },
+  "2171": {
+    "nama": "Kota Batam",
+    "kode_provinsi": "21",
+    "latitude": 1.050734,
+    "longitude": 103.960724
+  },
+  "2172": {
+    "nama": "Kota Tanjung Pinang",
+    "kode_provinsi": "21",
+    "latitude": 0.926001,
+    "longitude": 104.462505
+  },
+  "1804": {
+    "nama": "Kab. Lampung Barat",
+    "kode_provinsi": "18",
+    "latitude": -5.111704,
+    "longitude": 104.305787
+  },
+  "1801": {
+    "nama": "Kab. Lampung Selatan",
+    "kode_provinsi": "18",
+    "latitude": -5.541489,
+    "longitude": 105.511001
+  },
+  "1802": {
+    "nama": "Kab. Lampung Tengah",
+    "kode_provinsi": "18",
+    "latitude": -4.872847,
+    "longitude": 105.326013
+  },
+  "1807": {
+    "nama": "Kab. Lampung Timur",
+    "kode_provinsi": "18",
+    "latitude": -5.119712,
+    "longitude": 105.595151
+  },
+  "1803": {
+    "nama": "Kab. Lampung Utara",
+    "kode_provinsi": "18",
+    "latitude": -4.808609,
+    "longitude": 104.862881
+  },
+  "1811": {
+    "nama": "Kab. Mesuji",
+    "kode_provinsi": "18",
+    "latitude": -3.975419,
+    "longitude": 105.374944
+  },
+  "1809": {
+    "nama": "Kab. Pesawaran",
+    "kode_provinsi": "18",
+    "latitude": -5.455957,
+    "longitude": 105.084691
+  },
+  "1813": {
+    "nama": "Kab. Pesisir Barat",
+    "kode_provinsi": "18",
+    "latitude": -5.366944,
+    "longitude": 104.186642
+  },
+  "1810": {
+    "nama": "Kab. Pringsewu",
+    "kode_provinsi": "18",
+    "latitude": -5.366689,
+    "longitude": 104.972212
+  },
+  "1806": {
+    "nama": "Kab. Tanggamus",
+    "kode_provinsi": "18",
+    "latitude": -5.514054,
+    "longitude": 104.777144
+  },
+  "1805": {
+    "nama": "Kab. Tulang Bawang",
+    "kode_provinsi": "18",
+    "latitude": -4.390363,
+    "longitude": 105.550441
+  },
+  "1812": {
+    "nama": "Kab. Tulang Bawang Barat",
+    "kode_provinsi": "18",
+    "latitude": -4.432426,
+    "longitude": 105.168264
+  },
+  "1808": {
+    "nama": "Kab. Way Kanan",
+    "kode_provinsi": "18",
+    "latitude": -4.56694,
+    "longitude": 104.51616
+  },
+  "1871": {
+    "nama": "Kota Bandar Lampung",
+    "kode_provinsi": "18",
+    "latitude": -5.44792,
+    "longitude": 105.269842
+  },
+  "1872": {
+    "nama": "Kota Metro",
+    "kode_provinsi": "18",
+    "latitude": -5.150333,
+    "longitude": 105.301594
+  },
+  "8104": {
+    "nama": "Kab. Buru",
+    "kode_provinsi": "81",
+    "latitude": -3.353909,
+    "longitude": 126.648918
+  },
+  "8109": {
+    "nama": "Kab. Buru Selatan",
+    "kode_provinsi": "81",
+    "latitude": -3.486676,
+    "longitude": 126.350153
+  },
+  "8107": {
+    "nama": "Kab. Kepulauan Aru",
+    "kode_provinsi": "81",
+    "latitude": -6.228148,
+    "longitude": 134.497966
+  },
+  "8103": {
+    "nama": "Kab. Kepulauan Tanimbar",
+    "kode_provinsi": "81",
+    "latitude": NaN,
+    "longitude": NaN
+  },
+  "8108": {
+    "nama": "Kab. Maluku Barat Daya",
+    "kode_provinsi": "81",
+    "latitude": -7.786721,
+    "longitude": 126.242783
+  },
+  "8101": {
+    "nama": "Kab. Maluku Tengah",
+    "kode_provinsi": "81",
+    "latitude": -3.121446,
+    "longitude": 129.459992
+  },
+  "8102": {
+    "nama": "Kab. Maluku Tenggara",
+    "kode_provinsi": "81",
+    "latitude": -5.771488,
+    "longitude": 132.73776
+  },
+  "8106": {
+    "nama": "Kab. Seram Bagian Barat",
+    "kode_provinsi": "81",
+    "latitude": -3.164206,
+    "longitude": 128.483656
+  },
+  "8105": {
+    "nama": "Kab. Seram Bagian Timur",
+    "kode_provinsi": "81",
+    "latitude": -3.423159,
+    "longitude": 130.391092
+  },
+  "8171": {
+    "nama": "Kota Ambon",
+    "kode_provinsi": "81",
+    "latitude": -3.71095,
+    "longitude": 128.259342
+  },
+  "8172": {
+    "nama": "Kota Tual",
+    "kode_provinsi": "81",
+    "latitude": -5.590518,
+    "longitude": 132.004094
+  },
+  "8201": {
+    "nama": "Kab. Halmahera Barat",
+    "kode_provinsi": "82",
+    "latitude": 1.363105,
+    "longitude": 127.573796
+  },
+  "8204": {
+    "nama": "Kab. Halmahera Selatan",
+    "kode_provinsi": "82",
+    "latitude": -1.53437,
+    "longitude": 127.716559
+  },
+  "8202": {
+    "nama": "Kab. Halmahera Tengah",
+    "kode_provinsi": "82",
+    "latitude": 0.388881,
+    "longitude": 128.583224
+  },
+  "8206": {
+    "nama": "Kab. Halmahera Timur",
+    "kode_provinsi": "82",
+    "latitude": 1.002785,
+    "longitude": 128.248794
+  },
+  "8203": {
+    "nama": "Kab. Halmahera Utara",
+    "kode_provinsi": "82",
+    "latitude": 1.61787,
+    "longitude": 127.858468
+  },
+  "8205": {
+    "nama": "Kab. Kepulauan Sula",
+    "kode_provinsi": "82",
+    "latitude": -1.862544,
+    "longitude": 125.830647
+  },
+  "8207": {
+    "nama": "Kab. Pulau Morotai",
+    "kode_provinsi": "82",
+    "latitude": 2.312923,
+    "longitude": 128.441856
+  },
+  "8208": {
+    "nama": "Kab. Pulau Taliabu",
+    "kode_provinsi": "82",
+    "latitude": -1.831476,
+    "longitude": 124.829979
+  },
+  "8271": {
+    "nama": "Kota Ternate",
+    "kode_provinsi": "82",
+    "latitude": 0.835846,
+    "longitude": 127.355265
+  },
+  "8272": {
+    "nama": "Kota Tidore Kepulauan",
+    "kode_provinsi": "82",
+    "latitude": 0.751284,
+    "longitude": 127.412856
+  },
+  "5206": {
+    "nama": "Kab. Bima",
+    "kode_provinsi": "52",
+    "latitude": -8.564763,
+    "longitude": 118.762474
+  },
+  "5205": {
+    "nama": "Kab. Dompu",
+    "kode_provinsi": "52",
+    "latitude": -8.516477,
+    "longitude": 118.331216
+  },
+  "5201": {
+    "nama": "Kab. Lombok Barat",
+    "kode_provinsi": "52",
+    "latitude": -8.671889,
+    "longitude": 116.122048
+  },
+  "5202": {
+    "nama": "Kab. Lombok Tengah",
+    "kode_provinsi": "52",
+    "latitude": -8.703071,
+    "longitude": 116.289937
+  },
+  "5203": {
+    "nama": "Kab. Lombok Timur",
+    "kode_provinsi": "52",
+    "latitude": -8.633093,
+    "longitude": 116.55877
+  },
+  "5208": {
+    "nama": "Kab. Lombok Utara",
+    "kode_provinsi": "52",
+    "latitude": -8.357242,
+    "longitude": 116.160921
+  },
+  "5204": {
+    "nama": "Kab. Sumbawa",
+    "kode_provinsi": "52",
+    "latitude": -8.594902,
+    "longitude": 117.271607
+  },
+  "5207": {
+    "nama": "Kab. Sumbawa Barat",
+    "kode_provinsi": "52",
+    "latitude": -8.658515,
+    "longitude": 116.916184
+  },
+  "5272": {
+    "nama": "Kota Bima",
+    "kode_provinsi": "52",
+    "latitude": -8.449147,
+    "longitude": 118.765024
+  },
+  "5271": {
+    "nama": "Kota Mataram",
+    "kode_provinsi": "52",
+    "latitude": -8.599383,
+    "longitude": 116.155596
+  },
+  "5305": {
+    "nama": "Kab. Alor",
+    "kode_provinsi": "53",
+    "latitude": -8.291145,
+    "longitude": 124.777716
+  },
+  "5304": {
+    "nama": "Kab. Belu",
+    "kode_provinsi": "53",
+    "latitude": -9.175972,
+    "longitude": 124.916354
+  },
+  "5308": {
+    "nama": "Kab. Ende",
+    "kode_provinsi": "53",
+    "latitude": -8.672867,
+    "longitude": 121.692917
+  },
+  "5306": {
+    "nama": "Kab. Flores Timur",
+    "kode_provinsi": "53",
+    "latitude": -8.318462,
+    "longitude": 123.165796
+  },
+  "5301": {
+    "nama": "Kab. Kupang",
+    "kode_provinsi": "53",
+    "latitude": -10.163221,
+    "longitude": 123.601776
+  },
+  "5313": {
+    "nama": "Kab. Lembata",
+    "kode_provinsi": "53",
+    "latitude": -8.378144,
+    "longitude": 123.544627
+  },
+  "5321": {
+    "nama": "Kab. Malaka",
+    "kode_provinsi": "53",
+    "latitude": -9.546017,
+    "longitude": 124.876353
+  },
+  "5310": {
+    "nama": "Kab. Manggarai",
+    "kode_provinsi": "53",
+    "latitude": -8.548015,
+    "longitude": 120.438986
+  },
+  "5315": {
+    "nama": "Kab. Manggarai Barat",
+    "kode_provinsi": "53",
+    "latitude": -8.574128,
+    "longitude": 120.061125
+  },
+  "5319": {
+    "nama": "Kab. Manggarai Timur",
+    "kode_provinsi": "53",
+    "latitude": -8.573827,
+    "longitude": 120.686359
+  },
+  "5316": {
+    "nama": "Kab. Nagekeo",
+    "kode_provinsi": "53",
+    "latitude": -8.675887,
+    "longitude": 121.270803
+  },
+  "5309": {
+    "nama": "Kab. Ngada",
+    "kode_provinsi": "53",
+    "latitude": -8.649948,
+    "longitude": 120.986707
+  },
+  "5314": {
+    "nama": "Kab. Rote Ndao",
+    "kode_provinsi": "53",
+    "latitude": -10.687029,
+    "longitude": 123.208435
+  },
+  "5320": {
+    "nama": "Kab. Sabu Raijua",
+    "kode_provinsi": "53",
+    "latitude": -10.522231,
+    "longitude": 121.888458
+  },
+  "5307": {
+    "nama": "Kab. Sikka",
+    "kode_provinsi": "53",
+    "latitude": -8.594684,
+    "longitude": 122.092635
+  },
+  "5312": {
+    "nama": "Kab. Sumba Barat",
+    "kode_provinsi": "53",
+    "latitude": -9.585709,
+    "longitude": 119.443943
+  },
+  "5318": {
+    "nama": "Kab. Sumba Barat Daya",
+    "kode_provinsi": "53",
+    "latitude": -9.537821,
+    "longitude": 119.162302
+  },
+  "5317": {
+    "nama": "Kab. Sumba Tengah",
+    "kode_provinsi": "53",
+    "latitude": -9.593584,
+    "longitude": 119.666277
+  },
+  "5311": {
+    "nama": "Kab. Sumba Timur",
+    "kode_provinsi": "53",
+    "latitude": -9.834258,
+    "longitude": 120.209419
+  },
+  "5302": {
+    "nama": "Kab Timor Tengah Selatan",
+    "kode_provinsi": "53",
+    "latitude": -9.823051,
+    "longitude": 124.435595
+  },
+  "5303": {
+    "nama": "Kab. Timor Tengah Utara",
+    "kode_provinsi": "53",
+    "latitude": -9.340513,
+    "longitude": 124.610666
+  },
+  "5371": {
+    "nama": "Kota Kupang",
+    "kode_provinsi": "53",
+    "latitude": -10.157564,
+    "longitude": 123.601735
+  },
+  "9106": {
+    "nama": "Kab. Biak Numfor",
+    "kode_provinsi": "91",
+    "latitude": -0.942603,
+    "longitude": 135.941419
+  },
+  "9103": {
+    "nama": "Kab. Jayapura",
+    "kode_provinsi": "91",
+    "latitude": -2.538754,
+    "longitude": 140.703739
+  },
+  "9111": {
+    "nama": "Kab. Keerom",
+    "kode_provinsi": "91",
+    "latitude": -3.333592,
+    "longitude": 140.672662
+  },
+  "9105": {
+    "nama": "Kab. Kepulauan Yapen",
+    "kode_provinsi": "91",
+    "latitude": -1.755837,
+    "longitude": 136.366452
+  },
+  "9120": {
+    "nama": "Kab. Mamberamo Raya",
+    "kode_provinsi": "91",
+    "latitude": -2.3957,
+    "longitude": 137.816884
+  },
+  "9110": {
+    "nama": "Kab. Sarmi",
+    "kode_provinsi": "91",
+    "latitude": -1.854689,
+    "longitude": 138.749264
+  },
+  "9119": {
+    "nama": "Kab. Supiori",
+    "kode_provinsi": "91",
+    "latitude": -0.753597,
+    "longitude": 135.634964
+  },
+  "9115": {
+    "nama": "Kab. Waropen",
+    "kode_provinsi": "91",
+    "latitude": -2.718796,
+    "longitude": 136.650411
+  },
+  "9171": {
+    "nama": "Kota Jayapura",
+    "kode_provinsi": "91",
+    "latitude": -2.591487,
+    "longitude": 140.63519
+  },
+  "9203": {
+    "nama": "Kab. Fak Fak",
+    "kode_provinsi": "92",
+    "latitude": -2.929817,
+    "longitude": 132.296161
+  },
+  "9208": {
+    "nama": "Kab. Kaimana",
+    "kode_provinsi": "92",
+    "latitude": -3.515836,
+    "longitude": 134.316575
+  },
+  "9202": {
+    "nama": "Kab. Manokwari",
+    "kode_provinsi": "92",
+    "latitude": -0.861446,
+    "longitude": 134.076732
+  },
+  "9211": {
+    "nama": "Kab. Manokwari Selatan",
+    "kode_provinsi": "92",
+    "latitude": -1.525022,
+    "longitude": 134.071029
+  },
+  "9212": {
+    "nama": "Kab. Pegunungan Arfak",
+    "kode_provinsi": "92",
+    "latitude": -1.261192,
+    "longitude": 133.649206
+  },
+  "9206": {
+    "nama": "Kab. Teluk Bintuni",
+    "kode_provinsi": "92",
+    "latitude": -2.113885,
+    "longitude": 133.528775
+  },
+  "9207": {
+    "nama": "Kab. Teluk Wondama",
+    "kode_provinsi": "92",
+    "latitude": -2.632525,
+    "longitude": 134.566147
+  },
+  "9605": {
+    "nama": "Kab. Maybrat",
+    "kode_provinsi": "96",
+    "latitude": -0.712555,
+    "longitude": 130.303447
+  },
+  "9603": {
+    "nama": "Kab. Raja Ampat",
+    "kode_provinsi": "96",
+    "latitude": -0.712555,
+    "longitude": 130.303447
+  },
+  "9601": {
+    "nama": "Kab. Sorong",
+    "kode_provinsi": "96",
+    "latitude": -0.86341,
+    "longitude": 131.25448
+  },
+  "9602": {
+    "nama": "Kab. Sorong Selatan",
+    "kode_provinsi": "96",
+    "latitude": -1.643052,
+    "longitude": 132.254953
+  },
+  "9604": {
+    "nama": "Kab. Tambrauw",
+    "kode_provinsi": "96",
+    "latitude": -1.643052,
+    "longitude": 132.254953
+  },
+  "9671": {
+    "nama": "Kota Sorong",
+    "kode_provinsi": "96",
+    "latitude": -0.82164,
+    "longitude": 131.23626
+  },
+  "9501": {
+    "nama": "Kab. Jayawijaya",
+    "kode_provinsi": "95",
+    "latitude": -4.115279,
+    "longitude": 138.965031
+  },
+  "9507": {
+    "nama": "Kab. Lanny Jaya",
+    "kode_provinsi": "95",
+    "latitude": -3.997735,
+    "longitude": 138.373116
+  },
+  "9505": {
+    "nama": "Kab. Mamberamo Tengah",
+    "kode_provinsi": "95",
+    "latitude": -3.533546,
+    "longitude": 139.017741
+  },
+  "9508": {
+    "nama": "Kab. Nduga",
+    "kode_provinsi": "95",
+    "latitude": -4.44312,
+    "longitude": 138.224838
+  },
+  "9502": {
+    "nama": "Kab Pegunungan Bintang",
+    "kode_provinsi": "95",
+    "latitude": -4.475492,
+    "longitude": 140.557678
+  },
+  "9504": {
+    "nama": "Kab. Tolikara",
+    "kode_provinsi": "95",
+    "latitude": -3.44966,
+    "longitude": 138.349129
+  },
+  "9503": {
+    "nama": "Kab. Yahukimo",
+    "kode_provinsi": "95",
+    "latitude": -4.373946,
+    "longitude": 139.464816
+  },
+  "9506": {
+    "nama": "Kab. Yalimo",
+    "kode_provinsi": "95",
+    "latitude": -3.735331,
+    "longitude": 139.550582
+  },
+  "9304": {
+    "nama": "Kab. Asmat",
+    "kode_provinsi": "93",
+    "latitude": -5.531449,
+    "longitude": 138.789692
+  },
+  "9302": {
+    "nama": "Kab. Boven Digoel",
+    "kode_provinsi": "93",
+    "latitude": -6.105824,
+    "longitude": 140.313082
+  },
+  "9303": {
+    "nama": "Kab. Mappi",
+    "kode_provinsi": "93",
+    "latitude": -6.329553,
+    "longitude": 139.287731
+  },
+  "9301": {
+    "nama": "Kab. Merauke",
+    "kode_provinsi": "93",
+    "latitude": -7.792519,
+    "longitude": 140.018325
+  },
+  "9406": {
+    "nama": "Kab. Dogiyai",
+    "kode_provinsi": "94",
+    "latitude": -4.004751,
+    "longitude": 135.716696
+  },
+  "9407": {
+    "nama": "Kab. Intan Jaya",
+    "kode_provinsi": "94",
+    "latitude": -3.522988,
+    "longitude": 136.718466
+  },
+  "9404": {
+    "nama": "Kab. Mimika",
+    "kode_provinsi": "94",
+    "latitude": -4.587526,
+    "longitude": 136.947796
+  },
+  "9401": {
+    "nama": "Kab. Nabire",
+    "kode_provinsi": "94",
+    "latitude": -3.360285,
+    "longitude": 135.502365
+  },
+  "9403": {
+    "nama": "Kab. Paniai",
+    "kode_provinsi": "94",
+    "latitude": -3.742638,
+    "longitude": 136.377807
+  },
+  "9405": {
+    "nama": "Kab. Puncak",
+    "kode_provinsi": "94",
+    "latitude": -3.62565,
+    "longitude": 137.489247
+  },
+  "9402": {
+    "nama": "Kab. Puncak Jaya",
+    "kode_provinsi": "94",
+    "latitude": -4.078605,
+    "longitude": 137.158613
+  },
+  "1403": {
+    "nama": "Kab. Bengkalis",
+    "kode_provinsi": "14",
+    "latitude": 1.769723,
+    "longitude": 101.912438
+  },
+  "1404": {
+    "nama": "Kab. Indragiri Hilir",
+    "kode_provinsi": "14",
+    "latitude": -0.270885,
+    "longitude": 103.328457
+  },
+  "1402": {
+    "nama": "Kab. Indragiri Hulu",
+    "kode_provinsi": "14",
+    "latitude": -0.497898,
+    "longitude": 102.300814
+  },
+  "1401": {
+    "nama": "Kab. Kampar",
+    "kode_provinsi": "14",
+    "latitude": 0.319973,
+    "longitude": 101.061712
+  },
+  "1410": {
+    "nama": "Kab. Kepulauan Meranti",
+    "kode_provinsi": "14",
+    "latitude": 1.061305,
+    "longitude": 102.701882
+  },
+  "1409": {
+    "nama": "Kab. Kuantan Singingi",
+    "kode_provinsi": "14",
+    "latitude": -0.493797,
+    "longitude": 101.489736
+  },
+  "1405": {
+    "nama": "Kab. Pelalawan",
+    "kode_provinsi": "14",
+    "latitude": 0.238401,
+    "longitude": 102.254913
+  },
+  "1407": {
+    "nama": "Kab. Rokan Hilir",
+    "kode_provinsi": "14",
+    "latitude": 2.159057,
+    "longitude": 100.687378
+  },
+  "1406": {
+    "nama": "Kab. Rokan Hulu",
+    "kode_provinsi": "14",
+    "latitude": 0.891946,
+    "longitude": 100.466516
+  },
+  "1408": {
+    "nama": "Kab. Siak",
+    "kode_provinsi": "14",
+    "latitude": 0.827534,
+    "longitude": 101.846194
+  },
+  "1472": {
+    "nama": "Kota Dumai",
+    "kode_provinsi": "14",
+    "latitude": 1.647572,
+    "longitude": 101.438344
+  },
+  "1471": {
+    "nama": "Kota Pekanbaru",
+    "kode_provinsi": "14",
+    "latitude": 0.664497,
+    "longitude": 101.525567
+  },
+  "7605": {
+    "nama": "Kab. Majene",
+    "kode_provinsi": "76",
+    "latitude": -3.545929,
+    "longitude": 118.960744
+  },
+  "7603": {
+    "nama": "Kab. Mamasa",
+    "kode_provinsi": "76",
+    "latitude": -3.000366,
+    "longitude": 119.320909
+  },
+  "7602": {
+    "nama": "Kab. Mamuju",
+    "kode_provinsi": "76",
+    "latitude": -2.67563,
+    "longitude": 118.884795
+  },
+  "7606": {
+    "nama": "Kab. Mamuju Tengah",
+    "kode_provinsi": "76",
+    "latitude": -2.021442,
+    "longitude": 119.540545
+  },
+  "7601": {
+    "nama": "Kab. Pasangkayu",
+    "kode_provinsi": "76",
+    "latitude": -1.180728,
+    "longitude": 119.367341
+  },
+  "7604": {
+    "nama": "Kab. Polewali Mandar",
+    "kode_provinsi": "76",
+    "latitude": -3.30319,
+    "longitude": 119.145052
+  },
+  "7303": {
+    "nama": "Kab. Bantaeng",
+    "kode_provinsi": "73",
+    "latitude": -5.470945,
+    "longitude": 119.987168
+  },
+  "7311": {
+    "nama": "Kab. Barru",
+    "kode_provinsi": "73",
+    "latitude": -4.433734,
+    "longitude": 119.677827
+  },
+  "7308": {
+    "nama": "Kab. Bone",
+    "kode_provinsi": "73",
+    "latitude": -4.680102,
+    "longitude": 120.094673
+  },
+  "7302": {
+    "nama": "Kab. Bulukumba",
+    "kode_provinsi": "73",
+    "latitude": -5.454615,
+    "longitude": 120.245218
+  },
+  "7316": {
+    "nama": "Kab. Enrekang",
+    "kode_provinsi": "73",
+    "latitude": -3.565718,
+    "longitude": 119.772411
+  },
+  "7306": {
+    "nama": "Kab. Gowa",
+    "kode_provinsi": "73",
+    "latitude": -5.329087,
+    "longitude": 119.766028
+  },
+  "7304": {
+    "nama": "Kab. Jeneponto",
+    "kode_provinsi": "73",
+    "latitude": -5.544489,
+    "longitude": 119.611973
+  },
+  "7301": {
+    "nama": "Kab. Kepulauan Selayar",
+    "kode_provinsi": "73",
+    "latitude": -7.295818,
+    "longitude": 120.950499
+  },
+  "7317": {
+    "nama": "Kab. Luwu",
+    "kode_provinsi": "73",
+    "latitude": -3.347955,
+    "longitude": 120.221448
+  },
+  "7324": {
+    "nama": "Kab. Luwu Timur",
+    "kode_provinsi": "73",
+    "latitude": -2.530483,
+    "longitude": 121.122421
+  },
+  "7322": {
+    "nama": "Kab. Luwu Utara",
+    "kode_provinsi": "73",
+    "latitude": -2.403788,
+    "longitude": 120.130135
+  },
+  "7309": {
+    "nama": "Kab. Maros",
+    "kode_provinsi": "73",
+    "latitude": -4.965502,
+    "longitude": 119.692843
+  },
+  "7310": {
+    "nama": "Kab. Pangkajene Kepulauan",
+    "kode_provinsi": "73",
+    "latitude": -4.75445,
+    "longitude": 119.589311
+  },
+  "7315": {
+    "nama": "Kab. Pinrang",
+    "kode_provinsi": "73",
+    "latitude": -3.793257,
+    "longitude": 119.652869
+  },
+  "7314": {
+    "nama": "Kab. Sidenreng Rappang",
+    "kode_provinsi": "73",
+    "latitude": -3.807862,
+    "longitude": 120.045019
+  },
+  "7307": {
+    "nama": "Kab. Sinjai",
+    "kode_provinsi": "73",
+    "latitude": -5.200667,
+    "longitude": 120.144187
+  },
+  "7312": {
+    "nama": "Kab. Soppeng",
+    "kode_provinsi": "73",
+    "latitude": -4.31887,
+    "longitude": 119.918506
+  },
+  "7305": {
+    "nama": "Kab. Takalar",
+    "kode_provinsi": "73",
+    "latitude": -5.406654,
+    "longitude": 119.537542
+  },
+  "7318": {
+    "nama": "Kab. Tana Toraja",
+    "kode_provinsi": "73",
+    "latitude": -3.11694,
+    "longitude": 119.693764
+  },
+  "7326": {
+    "nama": "Kab. Toraja Utara",
+    "kode_provinsi": "73",
+    "latitude": -2.861242,
+    "longitude": 119.842012
+  },
+  "7313": {
+    "nama": "Kab. Wajo",
+    "kode_provinsi": "73",
+    "latitude": -3.965577,
+    "longitude": 120.127938
+  },
+  "7371": {
+    "nama": "Kota Makassar",
+    "kode_provinsi": "73",
+    "latitude": -5.148638,
+    "longitude": 119.264705
+  },
+  "7373": {
+    "nama": "Kota Palopo",
+    "kode_provinsi": "73",
+    "latitude": -2.933896,
+    "longitude": 120.177132
+  },
+  "7372": {
+    "nama": "Kota Pare Pare",
+    "kode_provinsi": "73",
+    "latitude": -4.030661,
+    "longitude": 119.64108
+  },
+  "7201": {
+    "nama": "Kab. Banggai",
+    "kode_provinsi": "72",
+    "latitude": -0.921046,
+    "longitude": 122.697507
+  },
+  "7207": {
+    "nama": "Kab. Banggai Kepulauan",
+    "kode_provinsi": "72",
+    "latitude": -1.351845,
+    "longitude": 123.180857
+  },
+  "7211": {
+    "nama": "Kab. Banggai Laut",
+    "kode_provinsi": "72",
+    "latitude": -1.842794,
+    "longitude": 123.102608
+  },
+  "7205": {
+    "nama": "Kab. Buol",
+    "kode_provinsi": "72",
+    "latitude": 1.012374,
+    "longitude": 121.312052
+  },
+  "7203": {
+    "nama": "Kab. Donggala",
+    "kode_provinsi": "72",
+    "latitude": -1.04782,
+    "longitude": 119.675847
+  },
+  "7206": {
+    "nama": "Kab. Morowali",
+    "kode_provinsi": "72",
+    "latitude": -2.715148,
+    "longitude": 121.88241
+  },
+  "7212": {
+    "nama": "Kab. Morowali Utara",
+    "kode_provinsi": "72",
+    "latitude": -1.841884,
+    "longitude": 121.07717
+  },
+  "7208": {
+    "nama": "Kab. Parigi Moutong",
+    "kode_provinsi": "72",
+    "latitude": -0.238361,
+    "longitude": 119.959931
+  },
+  "7202": {
+    "nama": "Kab. Poso",
+    "kode_provinsi": "72",
+    "latitude": -1.656851,
+    "longitude": 120.542158
+  },
+  "7210": {
+    "nama": "Kab. Sigi",
+    "kode_provinsi": "72",
+    "latitude": -1.321159,
+    "longitude": 119.998727
+  },
+  "7209": {
+    "nama": "Kab. Tojo Una Una",
+    "kode_provinsi": "72",
+    "latitude": -1.213138,
+    "longitude": 121.619607
+  },
+  "7204": {
+    "nama": "Kab. Toli Toli",
+    "kode_provinsi": "72",
+    "latitude": 0.970251,
+    "longitude": 120.880323
+  },
+  "7271": {
+    "nama": "Kota Palu",
+    "kode_provinsi": "72",
+    "latitude": -0.88181,
+    "longitude": 119.886074
+  },
+  "7406": {
+    "nama": "Kab. Bombana",
+    "kode_provinsi": "74",
+    "latitude": -4.639256,
+    "longitude": 121.757211
+  },
+  "7404": {
+    "nama": "Kab. Buton",
+    "kode_provinsi": "74",
+    "latitude": -5.034658,
+    "longitude": 122.885442
+  },
+  "7415": {
+    "nama": "Kab. Buton Selatan",
+    "kode_provinsi": "74",
+    "latitude": -5.591391,
+    "longitude": 122.701895
+  },
+  "7414": {
+    "nama": "Kab. Buton Tengah",
+    "kode_provinsi": "74",
+    "latitude": -5.291808,
+    "longitude": 122.388278
+  },
+  "7410": {
+    "nama": "Kab. Buton Utara",
+    "kode_provinsi": "74",
+    "latitude": -4.756504,
+    "longitude": 122.948916
+  },
+  "7401": {
+    "nama": "Kab. Kolaka",
+    "kode_provinsi": "74",
+    "latitude": -4.121351,
+    "longitude": 121.692944
+  },
+  "7411": {
+    "nama": "Kab. Kolaka Timur",
+    "kode_provinsi": "74",
+    "latitude": -3.820732,
+    "longitude": 121.754199
+  },
+  "7408": {
+    "nama": "Kab. Kolaka Utara",
+    "kode_provinsi": "74",
+    "latitude": -3.260504,
+    "longitude": 121.093398
+  },
+  "7402": {
+    "nama": "Kab. Konawe",
+    "kode_provinsi": "74",
+    "latitude": -3.511669,
+    "longitude": 121.652329
+  },
+  "7412": {
+    "nama": "Kab. Konawe Kepulauan",
+    "kode_provinsi": "74",
+    "latitude": -4.119481,
+    "longitude": 123.098564
+  },
+  "7405": {
+    "nama": "Kab. Konawe Selatan",
+    "kode_provinsi": "74",
+    "latitude": -4.259919,
+    "longitude": 122.449852
+  },
+  "7409": {
+    "nama": "Kab. Konawe Utara",
+    "kode_provinsi": "74",
+    "latitude": -3.454958,
+    "longitude": 121.976257
+  },
+  "7403": {
+    "nama": "Kab. Muna",
+    "kode_provinsi": "74",
+    "latitude": -5.025869,
+    "longitude": 122.532576
+  },
+  "7413": {
+    "nama": "Kab. Muna Barat",
+    "kode_provinsi": "74",
+    "latitude": -4.803671,
+    "longitude": 122.451455
+  },
+  "7407": {
+    "nama": "Kab. Wakatobi",
+    "kode_provinsi": "74",
+    "latitude": -5.31567,
+    "longitude": 123.585044
+  },
+  "7472": {
+    "nama": "Kota Bau Bau",
+    "kode_provinsi": "74",
+    "latitude": -5.458037,
+    "longitude": 122.60198
+  },
+  "7471": {
+    "nama": "Kota Kendari",
+    "kode_provinsi": "74",
+    "latitude": -4.003436,
+    "longitude": 122.515609
+  },
+  "7101": {
+    "nama": "Kab. Bolaang Mongondow",
+    "kode_provinsi": "71",
+    "latitude": 0.72077,
+    "longitude": 123.987037
+  },
+  "7111": {
+    "nama": "Kab. Bolaang Mongondow Selatan",
+    "kode_provinsi": "71",
+    "latitude": 0.453336,
+    "longitude": 124.17963
+  },
+  "7110": {
+    "nama": "Kab. Bolaang Mongondow Timur",
+    "kode_provinsi": "71",
+    "latitude": 0.711565,
+    "longitude": 124.489521
+  },
+  "7108": {
+    "nama": "Kab. Bolaang Mongondow Utara",
+    "kode_provinsi": "71",
+    "latitude": 0.759911,
+    "longitude": 123.484938
+  },
+  "7109": {
+    "nama": "Kab. Kep. Siau Tagulandang Biaro",
+    "kode_provinsi": "71",
+    "latitude": NaN,
+    "longitude": NaN
+  },
+  "7103": {
+    "nama": "Kab. Kepulauan Sangihe",
+    "kode_provinsi": "71",
+    "latitude": 3.552708,
+    "longitude": 125.546565
+  },
+  "7104": {
+    "nama": "Kab. Kepulauan Talaud",
+    "kode_provinsi": "71",
+    "latitude": 4.269493,
+    "longitude": 126.81355
+  },
+  "7102": {
+    "nama": "Kab. Minahasa",
+    "kode_provinsi": "71",
+    "latitude": 1.215168,
+    "longitude": 124.797888
+  },
+  "7105": {
+    "nama": "Kab. Minahasa Selatan",
+    "kode_provinsi": "71",
+    "latitude": 1.07031,
+    "longitude": 124.436162
+  },
+  "7107": {
+    "nama": "Kab. Minahasa Tenggara",
+    "kode_provinsi": "71",
+    "latitude": 0.988267,
+    "longitude": 124.730651
+  },
+  "7106": {
+    "nama": "Kab. Minahasa Utara",
+    "kode_provinsi": "71",
+    "latitude": 1.518365,
+    "longitude": 125.000426
+  },
+  "7172": {
+    "nama": "Kota Bitung",
+    "kode_provinsi": "71",
+    "latitude": 1.462599,
+    "longitude": 125.242919
+  },
+  "7174": {
+    "nama": "Kota Kotamobagu",
+    "kode_provinsi": "71",
+    "latitude": 0.733657,
+    "longitude": 124.275077
+  },
+  "7171": {
+    "nama": "Kota Manado",
+    "kode_provinsi": "71",
+    "latitude": 1.487458,
+    "longitude": 124.856254
+  },
+  "7173": {
+    "nama": "Kota Tomohon",
+    "kode_provinsi": "71",
+    "latitude": 1.34717,
+    "longitude": 124.883656
+  },
+  "1306": {
+    "nama": "Kab. Agam",
+    "kode_provinsi": "13",
+    "latitude": -0.254721,
+    "longitude": 100.170031
+  },
+  "1310": {
+    "nama": "Kab. Dharmasraya",
+    "kode_provinsi": "13",
+    "latitude": -1.25863,
+    "longitude": 101.579906
+  },
+  "1309": {
+    "nama": "Kab. Kepulauan Mentawai",
+    "kode_provinsi": "13",
+    "latitude": -1.358782,
+    "longitude": 98.895005
+  },
+  "1307": {
+    "nama": "Kab. Lima Puluh Kota",
+    "kode_provinsi": "13",
+    "latitude": 0.027855,
+    "longitude": 100.591308
+  },
+  "1305": {
+    "nama": "Kab. Padang Pariaman",
+    "kode_provinsi": "13",
+    "latitude": -0.569092,
+    "longitude": 100.277026
+  },
+  "1308": {
+    "nama": "Kab. Pasaman",
+    "kode_provinsi": "13",
+    "latitude": 0.397405,
+    "longitude": 100.024979
+  },
+  "1312": {
+    "nama": "Kab. Pasaman Barat",
+    "kode_provinsi": "13",
+    "latitude": 0.187538,
+    "longitude": 99.693516
+  },
+  "1301": {
+    "nama": "Kab. Pesisir Selatan",
+    "kode_provinsi": "13",
+    "latitude": -1.718579,
+    "longitude": 100.927025
+  },
+  "1303": {
+    "nama": "Kab. Sijunjung",
+    "kode_provinsi": "13",
+    "latitude": -0.696442,
+    "longitude": 100.99363
+  },
+  "1302": {
+    "nama": "Kab. Solok",
+    "kode_provinsi": "13",
+    "latitude": -0.93103,
+    "longitude": 100.804328
+  },
+  "1311": {
+    "nama": "Kab. Solok Selatan",
+    "kode_provinsi": "13",
+    "latitude": -1.557329,
+    "longitude": 101.239478
+  },
+  "1304": {
+    "nama": "Kab. Tanah Datar",
+    "kode_provinsi": "13",
+    "latitude": -0.468996,
+    "longitude": 100.63616
+  },
+  "1375": {
+    "nama": "Kota Bukittinggi",
+    "kode_provinsi": "13",
+    "latitude": -0.308029,
+    "longitude": 100.396321
+  },
+  "1371": {
+    "nama": "Kota Padang",
+    "kode_provinsi": "13",
+    "latitude": -0.845885,
+    "longitude": 100.321138
+  },
+  "1374": {
+    "nama": "Kota Padang Panjang",
+    "kode_provinsi": "13",
+    "latitude": -0.466058,
+    "longitude": 100.403711
+  },
+  "1377": {
+    "nama": "Kota Pariaman",
+    "kode_provinsi": "13",
+    "latitude": -0.608849,
+    "longitude": 100.158458
+  },
+  "1376": {
+    "nama": "Kota Payakumbuh",
+    "kode_provinsi": "13",
+    "latitude": -0.247752,
+    "longitude": 100.634931
+  },
+  "1373": {
+    "nama": "Kota Sawahlunto",
+    "kode_provinsi": "13",
+    "latitude": -0.638304,
+    "longitude": 100.783685
+  },
+  "1372": {
+    "nama": "Kota Solok",
+    "kode_provinsi": "13",
+    "latitude": -0.754737,
+    "longitude": 100.656511
+  },
+  "1607": {
+    "nama": "Kab. Banyuasin",
+    "kode_provinsi": "16",
+    "latitude": -2.393894,
+    "longitude": 104.754803
+  },
+  "1611": {
+    "nama": "Kab. Empat Lawang",
+    "kode_provinsi": "16",
+    "latitude": -3.715483,
+    "longitude": 102.932472
+  },
+  "1604": {
+    "nama": "Kab. Lahat",
+    "kode_provinsi": "16",
+    "latitude": -3.879346,
+    "longitude": 103.414086
+  },
+  "1603": {
+    "nama": "Kab. Muara Enim",
+    "kode_provinsi": "16",
+    "latitude": -3.846707,
+    "longitude": 103.961572
+  },
+  "1606": {
+    "nama": "Kab. Musi Banyuasin",
+    "kode_provinsi": "16",
+    "latitude": -2.490934,
+    "longitude": 103.704819
+  },
+  "1605": {
+    "nama": "Kab. Musi Rawas",
+    "kode_provinsi": "16",
+    "latitude": -3.175756,
+    "longitude": 103.250011
+  },
+  "1613": {
+    "nama": "Kab. Musi Rawas Utara",
+    "kode_provinsi": "16",
+    "latitude": -2.73515,
+    "longitude": 102.901465
+  },
+  "1610": {
+    "nama": "Kab. Ogan Ilir",
+    "kode_provinsi": "16",
+    "latitude": -3.398169,
+    "longitude": 104.6525
+  },
+  "1602": {
+    "nama": "Kab. Ogan Komering Ilir",
+    "kode_provinsi": "16",
+    "latitude": -3.328854,
+    "longitude": 105.399787
+  },
+  "1601": {
+    "nama": "Kab. Ogan Komering Ulu",
+    "kode_provinsi": "16",
+    "latitude": -4.110101,
+    "longitude": 104.008284
+  },
+  "1609": {
+    "nama": "Kab. Ogan Komering Ulu Selatan",
+    "kode_provinsi": "16",
+    "latitude": -4.57023,
+    "longitude": 103.924954
+  },
+  "1608": {
+    "nama": "Kab. Ogan Komering Ulu Timur",
+    "kode_provinsi": "16",
+    "latitude": -4.116009,
+    "longitude": 104.558481
+  },
+  "1612": {
+    "nama": "Kab. Penukal Abab Lematang Ilir",
+    "kode_provinsi": "16",
+    "latitude": -3.213995,
+    "longitude": 104.007694
+  },
+  "1673": {
+    "nama": "Kota Lubuk Linggau",
+    "kode_provinsi": "16",
+    "latitude": -3.279927,
+    "longitude": 102.859109
+  },
+  "1672": {
+    "nama": "Kota Pagar Alam",
+    "kode_provinsi": "16",
+    "latitude": -4.142765,
+    "longitude": 103.222456
+  },
+  "1671": {
+    "nama": "Kota Palembang",
+    "kode_provinsi": "16",
+    "latitude": -2.964356,
+    "longitude": 104.774193
+  },
+  "1674": {
+    "nama": "Kota Prabumulih",
+    "kode_provinsi": "16",
+    "latitude": -3.516702,
+    "longitude": 104.207088
+  },
+  "1209": {
+    "nama": "Kab. Asahan",
+    "kode_provinsi": "12",
+    "latitude": 3.112764,
+    "longitude": 99.941692
+  },
+  "1219": {
+    "nama": "Kab. Batu Bara",
+    "kode_provinsi": "12",
+    "latitude": 3.572329,
+    "longitude": 99.635344
+  },
+  "1211": {
+    "nama": "Kab. Dairi",
+    "kode_provinsi": "12",
+    "latitude": 2.835321,
+    "longitude": 98.284502
+  },
+  "1207": {
+    "nama": "Kab. Deli Serdang",
+    "kode_provinsi": "12",
+    "latitude": 3.695243,
+    "longitude": 98.831074
+  },
+  "1216": {
+    "nama": "Kab. Humbang Hasundutan",
+    "kode_provinsi": "12",
+    "latitude": 2.247581,
+    "longitude": 98.60102
+  },
+  "1206": {
+    "nama": "Kab. Karo",
+    "kode_provinsi": "12",
+    "latitude": 3.099875,
+    "longitude": 98.336971
+  },
+  "1210": {
+    "nama": "Kab. Labuhanbatu",
+    "kode_provinsi": "12",
+    "latitude": 2.580818,
+    "longitude": 100.210453
+  },
+  "1222": {
+    "nama": "Kab. Labuhanbatu Selatan",
+    "kode_provinsi": "12",
+    "latitude": 1.833653,
+    "longitude": 100.068372
+  },
+  "1223": {
+    "nama": "Kab. Labuhanbatu Utara",
+    "kode_provinsi": "12",
+    "latitude": 2.463473,
+    "longitude": 99.722876
+  },
+  "1205": {
+    "nama": "Kab. Langkat",
+    "kode_provinsi": "12",
+    "latitude": 3.829386,
+    "longitude": 98.24835
+  },
+  "1213": {
+    "nama": "Kab. Mandailing Natal",
+    "kode_provinsi": "12",
+    "latitude": 0.745675,
+    "longitude": 99.218858
+  },
+  "1204": {
+    "nama": "Kab. Nias",
+    "kode_provinsi": "12",
+    "latitude": 1.166679,
+    "longitude": 97.969292
+  },
+  "1225": {
+    "nama": "Kab. Nias Barat",
+    "kode_provinsi": "12",
+    "latitude": 0.896487,
+    "longitude": 97.343327
+  },
+  "1214": {
+    "nama": "Kab. Nias Selatan",
+    "kode_provinsi": "12",
+    "latitude": 0.068055,
+    "longitude": 98.262239
+  },
+  "1224": {
+    "nama": "Kab. Nias Utara",
+    "kode_provinsi": "12",
+    "latitude": 1.374756,
+    "longitude": 97.144569
+  },
+  "1221": {
+    "nama": "Kab. Padang Lawas",
+    "kode_provinsi": "12",
+    "latitude": 1.152763,
+    "longitude": 99.815477
+  },
+  "1220": {
+    "nama": "Kab. Padang Lawas Utara",
+    "kode_provinsi": "12",
+    "latitude": 1.636405,
+    "longitude": 99.691038
+  },
+  "1215": {
+    "nama": "Kab. Pakpak Bharat",
+    "kode_provinsi": "12",
+    "latitude": 2.529882,
+    "longitude": 98.267858
+  },
+  "1217": {
+    "nama": "Kab. Samosir",
+    "kode_provinsi": "12",
+    "latitude": 2.544695,
+    "longitude": 98.571914
+  },
+  "1218": {
+    "nama": "Kab. Serdang Bedagai",
+    "kode_provinsi": "12",
+    "latitude": 3.593115,
+    "longitude": 99.158331
+  },
+  "1208": {
+    "nama": "Kab. Simalungun",
+    "kode_provinsi": "12",
+    "latitude": 2.950516,
+    "longitude": 98.783531
+  },
+  "1203": {
+    "nama": "Kab. Tapanuli Selatan",
+    "kode_provinsi": "12",
+    "latitude": 1.551087,
+    "longitude": 99.211757
+  },
+  "1201": {
+    "nama": "Kab. Tapanuli Tengah",
+    "kode_provinsi": "12",
+    "latitude": 1.823128,
+    "longitude": 98.279768
+  },
+  "1202": {
+    "nama": "Kab. Tapanuli Utara",
+    "kode_provinsi": "12",
+    "latitude": 1.99806,
+    "longitude": 99.064766
+  },
+  "1212": {
+    "nama": "Kab. Toba",
+    "kode_provinsi": "12",
+    "latitude": 2.385459,
+    "longitude": 99.331465
+  },
+  "1275": {
+    "nama": "Kota Binjai",
+    "kode_provinsi": "12",
+    "latitude": 3.60036,
+    "longitude": 98.492575
+  },
+  "1278": {
+    "nama": "Kota Gunungsitoli",
+    "kode_provinsi": "12",
+    "latitude": 1.216977,
+    "longitude": 97.578245
+  },
+  "1271": {
+    "nama": "Kota Medan",
+    "kode_provinsi": "12",
+    "latitude": 3.538745,
+    "longitude": 98.6351
+  },
+  "1277": {
+    "nama": "Kota Padang Sidempuan",
+    "kode_provinsi": "12",
+    "latitude": 1.459893,
+    "longitude": 99.25403
+  },
+  "1272": {
+    "nama": "Kota Pematangsiantar",
+    "kode_provinsi": "12",
+    "latitude": 2.93548,
+    "longitude": 99.063705
+  },
+  "1273": {
+    "nama": "Kota Sibolga",
+    "kode_provinsi": "12",
+    "latitude": 1.73109,
+    "longitude": 98.789183
+  },
+  "1274": {
+    "nama": "Kota Tanjung Balai",
+    "kode_provinsi": "12",
+    "latitude": 2.94621,
+    "longitude": 99.81987
+  },
+  "1276": {
+    "nama": "Kota Tebing Tinggi",
+    "kode_provinsi": "12",
+    "latitude": 3.328947,
+    "longitude": 99.165171
+  }
+}

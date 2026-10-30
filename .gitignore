@@ -1,0 +1,66 @@
+# ========================================
+# Root .gitignore untuk Pangan Watcher
+# ========================================
+
+# --- Environment & Credentials ---
+.env
+.env.local
+.env*.local
+*.env
+
+# --- Virtual Environments (Python) ---
+venv/
+.venv/
+env/
+ENV/
+backend/venv/
+backend/.venv/
+
+# --- Node.js & Next.js (Frontend) ---
+node_modules/
+frontend/node_modules/
+.next/
+frontend/.next/
+out/
+frontend/out/
+build/
+dist/
+.npm
+*.tsbuildinfo
+next-env.d.ts
+
+# --- Python Cache ---
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# --- Uploads & Big Datasets ---
+uploads/
+backend/uploads/
+*.xlsx
+*.xls
+*.csv
+!test*.csv
+
+# --- Database & Local Stores ---
+*.db
+*.sqlite
+*.sqlite3
+
+# --- OS & Editor Files ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Logs & Internal Tool Agents ---
+*.log
+logs/
+.agents/
+.gemini/
+
